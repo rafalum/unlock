@@ -3448,7 +3448,7 @@ contract MixinGrantKeys is MixinErrors, MixinRoles, MixinKeys {
 
 // File contracts/UnlockUtils.sol
 
-pragma solidity >=0.5.17 <=0.8.13;
+pragma solidity >=0.5.17;
 
 // This contract provides some utility methods for use with the unlock protocol smart contracts.
 // Borrowed from:
